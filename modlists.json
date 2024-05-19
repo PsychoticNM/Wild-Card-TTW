@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Wild Card TTW",
+        "description": "Wild Card TTW is work in progress project focused on making Fallout New Vegas and fallout 3 feel like later fallout titles. At over 800 mods brings in new game play mechanics, textures, visuals and much more all the while maintaining good stability.",
+        "author": "Psychotic Monk",
+        "maintainers": [
+            "github/PsychoticNM"
+        ],
+        "game": "falloutnewvegas",
+        "official": false,
+        "tags": [
+            "Stability",
+            "Hardcore",
+            "Casual",
+            "Customizability",
+            "Gameplay",
+            "Lore-Friendly"
+        ],
+        "nsfw": false,
+        "utility_list": false,
+        "image_contains_title": true,
+        "DisplayVersionOnlyInInstallerView": false,
+        "force_down": false,
+        "links": {
+            "image": "https://raw.githubusercontent.com/PsychoticNM/Wild-Card-FNV/main/TTW.png",
+            "readme": "https://www.nexusmods.com/newvegas/mods/85177?tab=description",
+            "download": "https://authored-files.wabbajack.org/Wild Card TTW.wabbajack_6c295d21-329a-4bd3-bb33-c53a9171cd27",
+            "machineURL": "WildCardTTW",
+            "discordURL": "https://discord.gg/W3pKDEhMhg"
+        },
+        "download_metadata": {
+            "Hash": "+oHn+y+Fedc=",
+            "Size": 9824222,
+            "NumberOfArchives": 833,
+            "SizeOfArchives": 22937285321,
+            "NumberOfInstalledFiles": 117915,
+            "SizeOfInstalledFiles": 55512922915
+        },
+        "version": "3.8",
+        "dateCreated": "2024-05-10T00:00:00Z",
+        "dateUpdated": "2024-05-19T03:08:55.1601681Z",
+        "repositoryName": ""
+    }
+]
