@@ -24,21 +24,21 @@
         "links": {
             "image": "https://raw.githubusercontent.com/PsychoticNM/Wild-Card-TTW/main/TTW.png",
             "readme": "https://www.nexusmods.com/newvegas/mods/85177?tab=description",
-            "download": "https://authored-files.wabbajack.org/Wild Card TTW.wabbajack_6c295d21-329a-4bd3-bb33-c53a9171cd27",
+            "download": "https://authored-files.wabbajack.org/Wild Card TTW.wabbajack_80290ed3-911f-4af9-96bd-d8a06cf7b78f",
             "machineURL": "WildCardTTW",
             "discordURL": "https://discord.gg/W3pKDEhMhg"
         },
         "download_metadata": {
-            "Hash": "+oHn+y+Fedc=",
-            "Size": 9824222,
-            "NumberOfArchives": 833,
-            "SizeOfArchives": 22937285321,
-            "NumberOfInstalledFiles": 117915,
-            "SizeOfInstalledFiles": 55512922915
+            "Hash": "O5MJPEmZyb8=",
+            "Size": 11299231,
+            "NumberOfArchives": 826,
+            "SizeOfArchives": 22154304386,
+            "NumberOfInstalledFiles": 117892,
+            "SizeOfInstalledFiles": 52813295733
         },
-        "version": "3.8",
+        "version": "5.0",
         "dateCreated": "2024-05-10T00:00:00Z",
-        "dateUpdated": "2024-05-19T03:08:55.1601681Z",
+        "dateUpdated": "2024-05-27T03:08:55.1601681Z",
         "repositoryName": ""
     }
 ]
